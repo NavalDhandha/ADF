@@ -1,0 +1,9 @@
+{
+	"name": "adf-naval",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "879b39fb-cbc0-41d4-b865-be22ecd506de",
+		"tenantId": "03bef4a6-aeb0-4e42-a0e5-7222982bac79"
+	}
+}
