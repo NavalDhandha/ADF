@@ -18,6 +18,7 @@ These pipelines are designed to highlight both technical ADF implementation skil
 ## Pipeline Use Cases
 ### API pipeline
 <img width="2316" height="1266" alt="image" src="https://github.com/user-attachments/assets/c9b45b33-159a-455a-92b7-f70c4075f0f2" />
+
 **Purpose:** Ingest data from paginated REST APIs into a target destination.
 
 **What it does:**
@@ -33,6 +34,7 @@ These pipelines are designed to highlight both technical ADF implementation skil
 
 ### Ingestion pipeline
 <img width="2308" height="1288" alt="image" src="https://github.com/user-attachments/assets/694c8746-062b-4af2-8dcb-025f0c82ef71" />
+
 **Purpose:** Perform parameterized and incremental data loads from source tables.
 
 **What it does:**
@@ -49,6 +51,7 @@ These pipelines are designed to highlight both technical ADF implementation skil
 
 ### Schedule pipeline
 <img width="2224" height="1286" alt="image" src="https://github.com/user-attachments/assets/3cc1be0a-f9ec-4340-921d-fb67745ac760" />
+
 **Purpose:** Trigger other pipelines in a reusable parent-child orchestration pattern.
 
 **What it does:**
@@ -63,6 +66,7 @@ These pipelines are designed to highlight both technical ADF implementation skil
 
 ### Router pipeline
 <img width="2304" height="950" alt="image" src="https://github.com/user-attachments/assets/328b5609-f1c5-46bb-a03b-3a70e5288cd5" />
+
 **Purpose:** Route uploaded files from a landing container to destination zones based on file type or logic.
 
 **What it does:**
@@ -80,6 +84,7 @@ These pipelines are designed to highlight both technical ADF implementation skil
 
 ### Schema pipeline
 <img width="2246" height="1252" alt="image" src="https://github.com/user-attachments/assets/66e91a99-232a-43a5-8c7d-54ead8a9efa8" />
+
 **Purpose:** Load files dynamically using schema mapping passed as parameters.
 
 **What it does:**
@@ -96,6 +101,7 @@ These pipelines are designed to highlight both technical ADF implementation skil
 
 ### Delta Flow 
 <img width="2380" height="1172" alt="image" src="https://github.com/user-attachments/assets/21a357df-0264-4bb3-9f06-3213f2c54a3b" />
+
 **Purpose:** Transform source data and store it as Delta-formatted output.
 
 **What it does:**
