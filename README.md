@@ -1,4 +1,4 @@
-# ADF
+# Enterprise Azure Data Factory pipeline patterns
 Azure Data Factory project showcasing reusable ingestion, orchestration, routing, and transformation pipelines built for common enterprise ETL and analytics workflows.
 
 ## Project Overview
